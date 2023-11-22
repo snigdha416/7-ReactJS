@@ -1,0 +1,20 @@
+
+Routes
+  Step 1:
+           npm install react-router-dom@5
+         
+  Step 2: 
+        App.js (Automatically has done)
+               import (BrowerRouter as Router ,Route,Switch} from 'react-router-dom';
+
+
+<div className="App">
+      <Home></Home>
+      <Dashboard></Dashboard>
+    </div>
+
+
+
+   >    npm install react-router-dom@5
+npm install react-router-dom --save
+> npm install react-router
